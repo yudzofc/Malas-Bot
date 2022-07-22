@@ -30,7 +30,7 @@ def banner():
          Get MalasBot : github.com/wannazid                                                                                                                        
      ''')
 banner()
-input_token = input('[!] Token API > ')
+input_token = input('[!] Token API > 5549456557:AAFIYPjlC8PTHPopA03Z0ouBZXzhA6q2fjY')
 print('\n')
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
